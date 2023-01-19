@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30mm" height="10mm" version="1.1" viewBox="0 0 30 10" xmlns="http://www.w3.org/2000/svg">
+    <description 
+                    name="Resistor"
+                    designator="R"
+                    description="This is the Simbol the normal resistor"
+                    origin=""
+                    name-alias="Widerstand"
+                    symbol-alias="Resistor_US.svg"
+                    3d-model-name=""/>
+    <g stroke="#000000" fill="none" stroke-width=".5">
+        <rect x="5" y="2.5" width="10" height="5"/>
+        <line x1="0" x2="5" y1="5" y2="5" />
+        <pin pin="1" x="0" y="5" type="electric" e-type="passiv"/>
+        <line x1="15" x2="20" y1="5" y2="5" />
+        <pin pin="1" x="20" y="5" type="electric" e-type="passiv"/>
+    </g>
+</svg>
