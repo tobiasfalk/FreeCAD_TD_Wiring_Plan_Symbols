@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10mm" height="30mm" version="1.1" viewBox="0 0 10mm 30mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Batter Cell"
+                    designator="BT"
+                    description="This is the Symbol for a single Battery Cell"
+                    />
+    <g stroke="#000000" fill="none" stroke-width=".35mm">
+        <line x1="5mm" x2="5mm" y1="0mm" y2="7mm" />
+        <line x1="0" x2="10mm" y1="7mm" y2="7mm" />
+        <line x1="2.5mm" x2="7.5mm" y1="8mm" y2="8mm" />
+        <line x1="5mm" x2="5mm" y1="8mm" y2="12mm" stroke-dasharray="1mm .5mm" />
+        <line x1="0" x2="10mm" y1="12mm" y2="12mm" />
+        <line x1="2.5mm" x2="7.5mm" y1="13mm" y2="13mm" />
+        <line x1="5mm" x2="5mm" y1="13mm" y2="20mm" />
+        <pin pin="1" x="0mm" y="5mm" type="electric" e-type="passiv"/>
+        <pin pin="1" x="20mm" y="5mm" type="electric" e-type="passiv"/>
+        <text x="7.5mm" y="6mm" font-family="osifont" font-size="5mm" fill="black" stroke="black" text-anchor="middle">+</text>
+    </g>
+</svg>

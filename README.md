@@ -24,7 +24,7 @@ The pin tag, this tag has the folowing options:
 * connection-type this is for defing how this pin is representaed in the 3D space, is it a "screw terminal" or a othe connection type, for fibers the connector name("LC") and hydrolics the thrread pich(?)
 
 ## Size
-The symbols are made for a 5mm grid.
+The symbols are made for a 5mm grid and a line width of .35mm
 
 ## References
 https://www.nrc.gov/docs/ML1025/ML102530301.pdf

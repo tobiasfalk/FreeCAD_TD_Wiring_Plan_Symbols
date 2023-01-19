@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="30mm" height="10mm" version="1.1" viewBox="0 0 30 10" xmlns="http://www.w3.org/2000/svg">
-    <description 
-                    name="Resistor_US"
+<svg width="20mm" height="10mm" version="1.1" viewBox="0 0 20mm 10mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Resistor_US"
                     designator="R"
                     description="This is the Simbol the normal resistor"
-                    origin=""
                     name-alias="Widerstand"
-                    symbol-alias="Resistor.svg"
-                    3d-model-name=""/>
-    <g stroke="#000000" fill="none" stroke-width=".5">
+                    symbol-alias="Resistor.svg"/>
+    <g stroke="#000000" fill="none" stroke-width=".35" transform="scale(3.7795)">
         <polyline points="0,5 5,5 5.833,2.5 7.5,7.5 9.166,2.5 10.833,7.5 12.5,2.5 14.166,7.5 15,5 20,5" />
-        <pin pin="1" x="0" y="5" type="electric" e-type="passiv"/>
-        <pin pin="1" x="20" y="5" type="electric" e-type="passiv"/>
+        <pin pin="1" x="0" y="5mm" type="electric" e-type="passiv"/>
+        <pin pin="1" x="20mm" y="5mm" type="electric" e-type="passiv"/>
     </g>
 </svg>
