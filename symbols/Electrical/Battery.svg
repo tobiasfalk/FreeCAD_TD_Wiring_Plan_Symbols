@@ -4,7 +4,7 @@
                     designator="BT"
                     description="This is the Symbol for a Battery"
                     />
-    <g stroke="#000000" fill="none" stroke-width=".35mm">
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
         <line x1="5mm" x2="5mm" y1="0mm" y2="7mm" />
         <line x1="0" x2="10mm" y1="7mm" y2="7mm" />
         <line x1="2.5mm" x2="7.5mm" y1="8mm" y2="8mm" />

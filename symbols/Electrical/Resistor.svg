@@ -4,7 +4,7 @@
                     designator="R"
                     description="This is the Simbol the normal resistor"                    name-alias="Widerstand"
                     symbol-alias="Resistor_US.svg"/>
-    <g stroke="#000000" fill="none" stroke-width=".35mm">
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
         <rect x="5mm" y="2.5mm" width="10mm" height="5mm"/>
         <line x1="0mm" x2="5mm" y1="5mm" y2="5mm" />
         <pin pin="1" x="0mm" y="5mm" type="electric" e-type="passiv"/>

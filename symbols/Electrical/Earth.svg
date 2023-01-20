@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10mm" height="8mm" version="1.1" viewBox="0 0 10mm 8mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Antenna"
+                    designator="AE"
+                    description="This is the Symbol for a antenna"
+                    />
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
+        <line x1="5mm" x2="5mm" y1="0mm" y2="5mm" />
+        <line x1="0mm" x2="10mm" y1="5mm" y2="5mm" />
+        <line x1="2mm" x2="8mm" y1="6mm" y2="6mm" />
+        <line x1="4mm" x2="6mm" y1="7mm" y2="7mm" />
+        <pin pin="1" x="5mm" y="0mm" type="electric" e-type="passiv"/>
+    </g>
+</svg>
