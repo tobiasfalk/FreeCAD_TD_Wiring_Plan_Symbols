@@ -13,7 +13,7 @@
         <line x1="2.5mm" x2="7.5mm" y1="13mm" y2="13mm" />
         <line x1="5mm" x2="5mm" y1="13mm" y2="20mm" />
         <pin pin="1" x="0mm" y="5mm" type="electric" e-type="passiv"/>
-        <pin pin="1" x="20mm" y="5mm" type="electric" e-type="passiv"/>
+        <pin pin="2" x="20mm" y="5mm" type="electric" e-type="passiv"/>
         <text x="7.5mm" y="6mm" font-family="osifont" font-size="5mm" fill="black" stroke="black" text-anchor="middle">+</text>
     </g>
 </svg>

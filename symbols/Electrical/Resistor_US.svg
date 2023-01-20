@@ -8,6 +8,6 @@
     <g stroke="#000000" fill="none" stroke-width=".35" transform="scale(3.7795)" stroke-linecap="round">
         <polyline points="0,5 5,5 5.833,2.5 7.5,7.5 9.166,2.5 10.833,7.5 12.5,2.5 14.166,7.5 15,5 20,5" />
         <pin pin="1" x="0" y="5mm" type="electric" e-type="passiv"/>
-        <pin pin="1" x="20mm" y="5mm" type="electric" e-type="passiv"/>
+        <pin pin="2" x="20mm" y="5mm" type="electric" e-type="passiv"/>
     </g>
 </svg>
