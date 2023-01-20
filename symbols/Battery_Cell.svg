@@ -11,6 +11,6 @@
         <line x1="5mm" x2="5mm" y1="10.5mm" y2="20mm" />
         <pin pin="1" x="0mm" y="5mm" type="electric" e-type="passiv"/>
         <pin pin="1" x="20mm" y="5mm" type="electric" e-type="passiv"/>
-        <text x="7.5mm" y="8.5mm" font-famil                              y="osifont" font-size="5mm" fill="black" stroke="black" text-anchor="middle">+</text>
+        <text x="7.5mm" y="8.5mm" font-family="osifont" font-size="5mm" fill="black" stroke="black" text-anchor="middle">+</text>
     </g>
 </svg>
