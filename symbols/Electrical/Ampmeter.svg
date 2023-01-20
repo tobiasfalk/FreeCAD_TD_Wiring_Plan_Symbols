@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20mm" height="10mm" version="1.1" viewBox="0 0 20mm 10mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Ampmeter"
+                    designator="A"
+                    description="This is the Simbol for a voltmeter"/>
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
+        <circle cx="10mm" cy="5mm" r="5mm" stroke="black" />
+        <text x="10mm" y="7.6mm" font-family="osifont" font-size="7mm" fill="black" stroke="black" text-anchor="middle" always-horizontal="true">A</text>
+        <line x1="0mm" x2="5mm" y1="5mm" y2="5mm" />
+        <pin pin="1" x="0mm" y="5mm" type="electric" e-type="passiv"/>
+        <line x1="15mm" x2="20mm" y1="5mm" y2="5mm" />
+        <pin pin="2" x="20" y="5" type="electric" e-type="passiv"/>
+        <line x1="2mm" x2="3mm" y1="4.2mm" y2="5mm" />
+        <line x1="2mm" x2="3mm" y1="5.8mm" y2="5mm" />
+    </g>
+</svg>
