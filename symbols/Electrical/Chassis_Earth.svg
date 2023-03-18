@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12.5mm" height="15mm" version="1.1" viewBox="0 0 12.5mm 15mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Chassis_Earth"
+                    name-alias="Frame"
+                    designator=""
+                    description="This is the Symbol for Chassis Earth"
+                    />
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
+        <line x1="7.5mm" x2="7.5mm" y1="0mm" y2="5mm" />
+        <line x1="2.5mm" x2="12.5mm" y1="5mm" y2="5mm" />
+        <line x1="12.5mm" x2="10mm" y1="5mm" y2="10mm" />
+        <line x1="7.5mm" x2="5mm" y1="5mm" y2="10mm" />
+        <line x1="2.5mm" x2="0mm" y1="5mm" y2="10mm" />
+        <pin pin="1" x="7.5mm" y="0mm" type="electric" e-type="passiv"/>
+    </g>
+</svg>
