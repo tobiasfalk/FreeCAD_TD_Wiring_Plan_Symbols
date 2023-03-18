@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15mm" height="20mm" version="1.1" viewBox="0 0 15mm 20mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Microphone"
+                    designator="MK"
+                    description="This is the Simbol for a microphone"
+                    symbol-alias="Microphone_B.svg"/>
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
+        <circle cx="10mm" cy="10mm" r="5mm" stroke="black" />
+        <line x1="15mm" x2="15mm" y1="5mm" y2="15mm" />
+        <line x1="0mm" x2="5.6mm" y1="7.5mm" y2="7.5mm" />
+        <pin pin="1" x="0mm" y="7.5mm" type="electric" e-type="passiv"/>
+        <text x="2.5mm" y="6.5mm" font-family="osifont" font-size="5mm" fill="black" stroke="black" text-anchor="middle">+</text>
+        <line x1="0mm" x2="5.6mm" y1="12.5mm" y2="12.5mm" />
+        <pin pin="2" x="0" y="12.5" type="electric" e-type="passiv"/>
+    </g>
+</svg>

@@ -35,3 +35,5 @@ https://www.reconelectrical.co.uk/image/data/pdfs/Electrical%20Symbols%20Guide.p
 
 https://www.electronics-tutorials.ws/resources/basic-schematic-symbols.html
 https://www.electronicshub.org/symbols/
+
+KiCAD Symbol Library
