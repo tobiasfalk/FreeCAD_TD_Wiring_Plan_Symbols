@@ -3,7 +3,7 @@
     <description    name="Microphone"
                     designator="MK"
                     description="This is the Simbol for a microphone"
-                    symbol-alias="Microphone_B.svg"/>
+                    symbol-alias="Microphone_A.svg"/>
     <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
         <circle cx="10mm" cy="10mm" r="5mm" stroke="black" />
         <line x1="15mm" x2="15mm" y1="5mm" y2="15mm" />

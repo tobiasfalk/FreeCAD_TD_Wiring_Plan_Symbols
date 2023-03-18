@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12.5mm" height="20mm" version="1.1" viewBox="0 0 12.5mm 20mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Speaker"
+                    designator="LS"
+                    description="This is the Simbol for a speaker"
+                    symbol-alias="Speaker_B.svg"/>
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
+        <rect x="0" y="5mm" width="5mm" height="10mm" />
+        <line x1="2.5mm" x2="2.5mm" y1="0mm" y2="5mm" />
+        <pin pin="1" x="2.5mm" y="mm" type="electric" e-type="passiv"/>
+        <text x="5mm" y="4mm" font-family="osifont" font-size="5mm" fill="black" stroke="black" text-anchor="middle">+</text>
+        <line x1="2.5mm" x2="2.5mm" y1="15mm" y2="20mm" />
+        <pin pin="2" x="2.5" y="20" type="electric" e-type="passiv"/>
+        <g stroke="#000000" fill="none" stroke-width=".35" transform="scale(3.7795)" stroke-linecap="round">
+            <polyline points="5,5 12.5,0 12.5,20 5,15" />
+        </g>
+    </g>
+</svg>

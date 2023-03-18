@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17.5mm" height="20mm" version="1.1" viewBox="0 0 17.5mm 20mm" xmlns="http://www.w3.org/2000/svg">
+    <description    name="Speaker_Crystal"
+                    designator="LS"
+                    description="This is the Simbol for a speaker"
+                    symbol-alias="Speaker_A_Crystal.svg"/>
+    <g stroke="#000000" fill="none" stroke-width=".35mm" stroke-linecap="round">
+        <rect x="5mm" y="5mm" width="5mm" height="10mm" />
+        <line x1="0mm" x2="5mm" y1="7.5mm" y2="7.5mm" />
+        <pin pin="1" x="0mm" y="7.5mm" type="electric" e-type="passiv"/>
+        <text x="2.5mm" y="7mm" font-family="osifont" font-size="5mm" fill="black" stroke="black" text-anchor="middle">+</text>
+        <line x1="0mm" x2="5mm" y1="12.5mm" y2="12.5mm" />
+        <pin pin="2" x="0" y="12.5" type="electric" e-type="passiv"/>
+        <g stroke="#000000" fill="none" stroke-width=".35" transform="scale(3.7795)" stroke-linecap="round">
+            <polyline points="10,5 17.5,0 17.5,20 10,15" />
+        </g>
+        <line x1="7.5mm" x2="7.5mm" y1="7mm" y2="8.5mm" />
+        <line x1="5.5mm" x2="9.5mm" y1="8.5mm" y2="8.5mm" />
+        <rect x="5.5mm" y="9.5mm" width="4mm" height="1mm"/>
+        <line x1="7.5mm" x2="7.5mm" y1="11.5mm" y2="13mm" />
+        <line x1="5.5mm" x2="9.5mm" y1="11.5mm" y2="11.5mm" />
+    </g>
+</svg>
